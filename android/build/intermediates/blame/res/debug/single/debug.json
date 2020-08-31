@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\Project\\Android Studio\\FlappyJava\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Project\\Android Studio\\FlappyJava\\android\\res\\drawable-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Project\\Android Studio\\FlappyJava\\android\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v26_ic_launcher_foreground.xml.flat",
+        "source": "E:\\Project\\Android Studio\\FlappyJava\\android\\res\\drawable-anydpi-v26\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\Project\\Android Studio\\FlappyJava\\android\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\Project\\Android Studio\\FlappyJava\\android\\res\\drawable-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\Project\\Android Studio\\FlappyJava\\android\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "E:\\Project\\Android Studio\\FlappyJava\\android\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Project\\Android Studio\\FlappyJava\\android\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bird.png.flat",
+        "source": "E:\\Project\\Android Studio\\FlappyJava\\android\\res\\drawable-mdpi\\bird.png"
+    },
+    {
+        "merged": "E:\\Project\\Android Studio\\FlappyJava\\android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "E:\\Project\\Android Studio\\FlappyJava\\android\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Project\\Android Studio\\FlappyJava\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\Project\\Android Studio\\FlappyJava\\android\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Project\\Android Studio\\FlappyJava\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Project\\Android Studio\\FlappyJava\\android\\res\\drawable-xxhdpi\\ic_launcher.png"
+    }
+]

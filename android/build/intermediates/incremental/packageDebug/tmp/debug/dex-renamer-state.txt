@@ -1,0 +1,4 @@
+#Sun Jun 14 19:49:24 ICT 2020
+base.0=E\:\\Project\\Android Studio\\FlappyJava\\android\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
